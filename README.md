@@ -1,6 +1,6 @@
 ### Hi 👍
 
-I'm Vinicius Lima, I'm a student in Android and back-end development
+I'm Vinicius Lima, I'm a mobile Developer
 
 
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusL1&show_icons=true&theme=tokyonight)
